@@ -7,6 +7,8 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on developing myself..
 - 💬 Ask me about ...
+- compare yourself to yourself yesterday and tomorrow✨ 
+  
 
 
 
