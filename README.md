@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 🔭 I’m currently working on developing myself..🧑🏻‍💻
-- 💬 Ask me about ...
+- 💬 Ask me about ... @alzahabidoummar@gmail.con
 - compare yourself to yourself yesterday and tomorrow✨ 
   
 
