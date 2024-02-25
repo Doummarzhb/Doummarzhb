@@ -1,3 +1,4 @@
+![logo](https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif)
 <h1 align="center">Hi 👋, I'm Doummar Alzahabi</h1>
 <h3 align="center">A passionate frontend developer and Backend from Lebanon</h3>
 <img align="right" alt="coding" width="400"src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
