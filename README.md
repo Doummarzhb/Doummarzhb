@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/alzahabidoummar" target="blank"><img src="https://img.shields.io/twitter/follow/alzahabidoummar?logo=twitter&style=for-the-badge" alt="alzahabidoummar" /></a> </p>
 
-- 🔭 I’m currently working on **Angular** && **Next/typescript , Tailwind CSS** , **Java , C#, express.js**
+- 🔭 I’m currently working on **Angular** && **Next/typescript , Tailwind CSS** , **Java (Spring-boot)  , C#(.NET), express.js** , **FLutter** 
 
 - 🌱 I’m currently learning **Angular,.Net(c#)**
 
