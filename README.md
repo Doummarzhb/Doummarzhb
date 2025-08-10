@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working on **Angular** && **Next/typescript , Tailwind CSS** , **Java (Spring-boot)  , C#(.NET), express.js** , **FLutter** 
 
-- 🌱 I’m currently learning **Angular,.Net(c#)**
-
-- 💬 Ask me about **React.js vue.js**
-
-- 📫 How to reach me **alzahabidoummar@gmail.com**
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
