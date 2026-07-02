@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Doummar Alzahabi</h1>
+<h1 align="center">Hi 👋, I'm Doummar </h1>
 <h3 align="center">A passionate Software Eng  | AI Software Dev   </h3>
 
 
