@@ -7,7 +7,6 @@ Founder | Team Leader | Software Engineer | AI & Full-Stack Developer
 <p align="center">
 Building RestauHub and scalable SaaS, CRM, CMS & AI-powered solutions for modern businesses.
 </p>
-## 👨‍💻 About Me
 
 Founder, Team Leader, and Software Engineer & Dev passionate about building scalable digital products and innovative technology solutions.
 
