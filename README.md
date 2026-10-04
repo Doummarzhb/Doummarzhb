@@ -1,4 +1,4 @@
-<h1 align="center">  Doummar Alzahabi 👋  </h1>
+<h1 align="center">  Doummar  👋  </h1>
 
 <h3 align="center">
 Founder | Team Leader | Software Engineer | AI & Full-Stack Developer
