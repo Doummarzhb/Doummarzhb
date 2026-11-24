@@ -17,7 +17,7 @@ Building AI-powered solutions, SaaS platforms, CRM & CMS systems, and scalable d
 <td width="50%" align="center">
 
  🍽️ RestauHub
-An intelligent restaurant technology platform designed to simplify operations, automate workflows, and help restaurants grow.
+An intelligent restaurant technology platform designed to simplify operations, automate workflows, and help restaurants grow. AI
 <a href="https://www.restau-hub.com">🌐 Explore RestauHub</a>
 </td>
 <td width="50%" align="center">
