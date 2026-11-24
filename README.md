@@ -21,7 +21,8 @@ An intelligent restaurant technology platform designed to simplify operations, a
 <a href="https://www.restau-hub.com">🌐 Explore RestauHub</a>
 </td>
 <td width="50%" align="center">
- 📐 Trace Plus
+The Next-Gen Architectural Sketch & 3D Extrusion Studio
+A modern architectural tool transforming 2D sketches into interactive 3D models and extrusion experiences.
 <a href="https://trace-plus-for-architecture-bk144xqtm.vercel.app">🌐 Explore Trace Plus</a>
 </td>
 </tr>
