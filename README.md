@@ -20,9 +20,10 @@ Building AI-powered solutions, SaaS platforms, CRM & CMS systems, and scalable d
 An intelligent restaurant technology platform designed to simplify operations, automate workflows, and help restaurants grow.
 <a href="https://www.restau-hub.com">🌐 Explore RestauHub</a>
 </td>
+
 <td width="50%" align="center">
 ### 📐 Trace Plus
-**The Next-Gen Architectural Sketch & 3D Extrusion Studio**
+The Next-Gen Architectural Sketch & 3D Extrusion Studio
 <a href="https://trace-plus-for-architecture-bk144xqtm.vercel.app">🌐 Explore Trace Plus</a>
 
 </td>
